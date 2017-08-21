@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewdoNet", "notif\ViewdoNet.csproj", "{B05EE82D-8BE9-4B33-AE47-52014D1A939A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewdotNet.Tests", "notif.Tests\ViewdotNet.Tests.csproj", "{9770510A-40EA-4732-93AC-98277013A006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05EE82D-8BE9-4B33-AE47-52014D1A939A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05EE82D-8BE9-4B33-AE47-52014D1A939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05EE82D-8BE9-4B33-AE47-52014D1A939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05EE82D-8BE9-4B33-AE47-52014D1A939A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9770510A-40EA-4732-93AC-98277013A006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9770510A-40EA-4732-93AC-98277013A006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9770510A-40EA-4732-93AC-98277013A006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9770510A-40EA-4732-93AC-98277013A006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
