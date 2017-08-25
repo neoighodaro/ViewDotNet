@@ -2,6 +2,8 @@
 
 This is a sample of how to build an online realtime counter using .NET and Pusher.
 
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/neoighodaro?utm_source=github&utm_medium=button&utm_term=neoighodaro&utm_campaign=github)
+
 ![](https://dl.dropbox.com/s/83nwb65wj9vr6bi/How-to-build-an-online-real-time-counter-using-.NET-and-Pusher-2.gif)
 
 ### How to set up project
